@@ -1,2 +1,2 @@
 # lisp-rs
-Following Lisp interpreter in Rust
+Following Lisp interpreter in Rust Book
